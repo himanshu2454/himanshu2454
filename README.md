@@ -13,8 +13,7 @@
 </a>
 
 <br />
-  
-  
+<br />
 Hi, I'm [Himanshu Chouhan](https://hchouhan.azurewebsites.net/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
