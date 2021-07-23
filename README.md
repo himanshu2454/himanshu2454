@@ -14,7 +14,9 @@
 
 <br />
 <br />
-Hi, I'm Himanshu [Portfolio](linkto:https://bit.ly/3xMEunh), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi,
+<br />
+I'm Himanshu [Portfolio](https://bit.ly/3xMEunh), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
