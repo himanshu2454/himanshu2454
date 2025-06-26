@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left">
-  <a href="https://discordapp.com/users/YOUR_DISCORD_USERNAME_OR_ID" target="_blank">
+  <a href="https://discordapp.com/users/ignotus2411" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="[https://x.com/hackhimanshu54](https://x.com/hackhimanshu54)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/himanshu-chouhan-sse/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
