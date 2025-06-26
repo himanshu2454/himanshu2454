@@ -13,7 +13,7 @@
 <br />
 Hi,
 <br />
-I'm Himanshu (https://bit.ly/3xMEunh), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm Himanshu ([Portfolio](https://himanshu2454.github.io/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -38,7 +38,7 @@ I'm Himanshu (https://bit.ly/3xMEunh), a passionate self-taught Full Stack web d
 <!--START_SECTION:waka-->
 ```text
 React        24 hrs 1 min    ██████████████████░░░░░   78.56 % 
-JavaScript   5 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░   18.07 % 
+.Net   5 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░   18.07 % 
 JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
